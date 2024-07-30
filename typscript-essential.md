@@ -58,7 +58,7 @@ let color: string = "blue";
 let list: number[] = [1, 2, 3];
 let x: [string, number] = ["hello", 10]; // Tuple
 ```
-### Fonction qui utilise les tuple avec type généruique : 
+### Fonction qui utilise les tuple avec type générique : 
 Un type générique est un type qui prend n'importe quel type comme un inconnu en mathématique. Bien que ce soit un tuple on peut vouloir qu'il prenne 
 plusieurs types de valeur selon le cas. C'est le cas de la fonction ci dessous où on ne sait pas exactement quel type de valeur va contenir le tuple passé a la fonction 
 ```typescript
